@@ -1,1 +1,1 @@
-<template>  <div class="container">pouria</div></template><script>export default {  name: "HomePage"}</script><style scoped></style>
+<template>  <div class="container-fluid row justify-content-center align-items-center w-100">    <div class="col-md-4 d-flex flex-column bg-green">      <HeaderPage />    </div>  </div></template><script>import HeaderPage from "@/components/Home/Header";export default {  name: "HomePage",  components:{    HeaderPage  }}</script><style scoped lang="scss"></style>

@@ -1,1 +1,0 @@
-<template>  <div class="d-flex">slider</div></template><script>export default {  name: "sliderPage"}</script><style scoped></style>

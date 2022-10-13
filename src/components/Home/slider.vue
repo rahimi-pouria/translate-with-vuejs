@@ -1,0 +1,1 @@
+<template>  <deiv class="d-flex">slider</deiv></template><script>export default {  name: "sliderPage"}</script><style scoped></style>

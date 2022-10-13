@@ -1,0 +1,1 @@
+<template>  <div class="d-flex">    <h2>i am Description page</h2>  </div></template><script>export default {  name: "Description"}</script><style scoped></style>

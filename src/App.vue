@@ -1,4 +1,5 @@
 <template>
+<!--  components-->
   <HomePage />
 </template>
 
